@@ -1,0 +1,2 @@
+# NESEV-
+Yazılım Python
